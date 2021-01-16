@@ -19,3 +19,6 @@ safe: true
 # header_pages:
 #   - README.md
 #   - PRIVACY_POLICY.md
+
+title: World Geography Title in _config.yml
+description: January 2021
