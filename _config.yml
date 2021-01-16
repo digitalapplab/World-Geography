@@ -8,4 +8,9 @@ include:
   - PRIVACY_POLICY.md
 
 theme: jekyll-theme-cayman
+
 safe: true
+
+header_pages:
+  - README.md
+  - PRIVACY_POLICY.md
