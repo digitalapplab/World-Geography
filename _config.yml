@@ -1,5 +1,5 @@
-title: World Geography Title in _config.yml
-description: January 2021
+title: World Geography
+description: The best app in Google Play Store for World Geography quiz
 
 plugins:
   - jekyll-relative-links
