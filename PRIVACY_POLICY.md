@@ -34,7 +34,7 @@ We share the collected information only to Google so that Firebase related servi
 2. Your email communication information is retrieved with us as long as we are not cleaning up our inbox.
 
 
-# In Detail
+## In Detail
 When we say “Digital App Lab,” “our,” “we,” or “us,” we’re talking about Digital App Lab team. This Privacy Policy (“Privacy Policy”) applies to all of our apps, services, features, software, and website (together, “Services”) unless specified otherwise.
 
 Please also read Digital App Lab’s Terms of Service (“Terms”), which describes the terms under which you use our Services.
