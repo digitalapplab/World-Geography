@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-feed
-  - jekyll-sitemap
+#   - jekyll-feed
+#   - jekyll-sitemap
 
 relative_links:
   enabled: true
@@ -16,6 +16,6 @@ theme: jekyll-theme-cayman
 
 safe: true
 
-header_pages:
-  - README.md
-  - PRIVACY_POLICY.md
+# header_pages:
+#   - README.md
+#   - PRIVACY_POLICY.md
