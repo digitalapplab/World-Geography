@@ -89,4 +89,4 @@ You agree to our information practices, including the collection, use, processin
 We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Last Modified” date at the top of this Privacy Policy. Your continued use of our Services confirms your acceptance of our Privacy Policy, as amended. If you do not agree to our Privacy Policy, as amended, you must stop using our Services. Please review our Privacy Policy from time to time.
 
 ### Contact Us
-If you have questions about our Privacy Policy, please contact us.
+If you have questions about our Privacy Policy, please contact us at [digitalapplab@gmail.com](mailto:digitalapplab@gmail.com)
