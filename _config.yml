@@ -13,6 +13,10 @@ include:
   - PRIVACY_POLICY.md
   - README.md
 
+header_pages:
+  - PRIVACY_POLICY.md
+  - README.md
+  
 theme: jekyll-theme-cayman
 
 safe: true
