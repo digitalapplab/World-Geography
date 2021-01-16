@@ -8,3 +8,4 @@ include:
   - PRIVACY_POLICY.md
 
 theme: jekyll-theme-cayman
+safe: true
