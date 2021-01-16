@@ -16,3 +16,6 @@ include:
 theme: jekyll-theme-cayman
 
 safe: true
+
+github:
+  is_project_page: false
