@@ -8,8 +8,9 @@ relative_links:
   collections: true
 
 include:
-  - README.md
+  - index.md
   - PRIVACY_POLICY.md
+  - README.md
 
 theme: jekyll-theme-cayman
 
