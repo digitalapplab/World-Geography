@@ -48,44 +48,33 @@ Your results. We do not retain your exam results specific information in the ord
 Customer Support. You may provide us with information related to your use of our Services, and how to contact you so we can provide you customer support. For example, you may send us an email with information relating to our app performance or other issues.
 
 ### Automatically Collected Information
-##### Usage and Log Information
-We collect service-related, diagnostic, and performance information. This includes information about your activity (such as how you use our Services, and the like), log files, and diagnostic, crash, website, and performance logs and reports.
+**Usage and Log Information.** We collect service-related, diagnostic, and performance information. This includes information about your activity (such as how you use our Services, and the like), log files, and diagnostic, crash, website, and performance logs and reports.
 
-##### Transactional Information
-If you pay for our Services, we may receive information and confirmations, such as payment receipts, including from app stores or other third parties processing your payment.
+**Transactional Information.** If you pay for our Services, we may receive information and confirmations, such as payment receipts, including from app stores or other third parties processing your payment.
 
-##### Device and Connection Information
-We collect device-specific information when you install, access, or use our Services. This includes information such as hardware model, operating system information, IP address, mobile network service provider, and device identifiers.
+**Device and Connection Information.** We collect device-specific information when you install, access, or use our Services. This includes information such as hardware model, operating system information, IP address, mobile network service provider, and device identifiers.
 
-##### Cookies
-We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize our Services. For example, we use cookies to provide online help and support for Digital App Lab and other web-based services.
+**Cookies.** We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize our Services. For example, we use cookies to provide online help and support for Digital App Lab and other web-based services.
 
-##### Third-Party Providers
-We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market our Services. For example, we work with Google to distribute our apps, provide our infrastructure, delivery, and other systems, process payments, help us understand how people use our Services, and market our Services. These providers may provide us information about you in certain circumstances; for example, play store may provide us reports to help us diagnose and fix service issues.
+**Third-Party Providers.** We work with third-party providers to help us operate, provide, improve, understand, customize, support, and market our Services. For example, we work with Google to distribute our apps, provide our infrastructure, delivery, and other systems, process payments, help us understand how people use our Services, and market our Services. These providers may provide us information about you in certain circumstances; for example, play store may provide us reports to help us diagnose and fix service issues.
 
 ### How We Use Information
 We use all the information we have to help us operate, provide, improve, understand, customize, support, and market our Services.
 
-##### Our Services
-We operate and provide our Services, including providing customer support, and improving, fixing, and customizing our Services. We understand how people use our Services, and analyze and use the information we have to evaluate and improve our Services, research, develop, and test new services and features, and conduct troubleshooting activities. We also use your information to respond to you when you contact us.
+**Our Services.** We operate and provide our Services, including providing customer support, and improving, fixing, and customizing our Services. We understand how people use our Services, and analyze and use the information we have to evaluate and improve our Services, research, develop, and test new services and features, and conduct troubleshooting activities. We also use your information to respond to you when you contact us.
 
-##### Communications About Our Services
-We communicate with you about our Services and features and let you know about our terms and policies and other important updates. We may provide you marketing for our Services.
+**Communications About Our Services.** We communicate with you about our Services and features and let you know about our terms and policies and other important updates. We may provide you marketing for our Services.
 
-##### No Third-Party Banner Ads
-We do not allow third-party banner ads on Digital App Lab apps. We have no intention to introduce them, but if we ever do, we will update this policy.
+**Third-Party Banner Ads.** We do not allow third-party banner ads on Digital App Lab apps. We have no intention to introduce them, but if we ever do, we will update this policy.
 
-##### Third-Party Full-Screen Interstitial Ads
-Some of our apps (e.g. Music Companion) show interest based full-screen interstitial ads from Google AdSense in between screen transitions with an intention not to destruct you while using a particular feature of the app. The frequency of showing ads and number of ads shown during a session may vary time to time and is solely the decission of Digital App Lab team. We may accept your feedback and opinion about the same and may fine tune these parameters (e.g. nature of ads, frequency of showing ads etc.).
+**Third-Party Full-Screen Interstitial Ads.** Some of our apps (e.g. Music Companion) show interest based full-screen interstitial ads from Google AdSense in between screen transitions with an intention not to destruct you while using a particular feature of the app. The frequency of showing ads and number of ads shown during a session may vary time to time and is solely the decission of Digital App Lab team. We may accept your feedback and opinion about the same and may fine tune these parameters (e.g. nature of ads, frequency of showing ads etc.).
 
 ### Information You And We Share
 You share your information as you use our Services, and we share your information to help us operate, provide, improve, understand, customize, support, and market our Services.
 
-##### Third-Party Providers
-We work with third-party providers like Google to help us operate, provide, improve, understand, customize, support, and market our Services. When we share information with third-party providers, we require them to use your information in accordance with our instructions and terms or with express permission from you. 
+**Third-Party Providers.** We work with third-party providers like Google to help us operate, provide, improve, understand, customize, support, and market our Services. When we share information with third-party providers, we require them to use your information in accordance with our instructions and terms or with express permission from you. 
 
-##### Third-Party Services
-When you use third-party services that are integrated with our Services, they may receive information about what you share with them. For example, if you use a data backup service integrated with our Services (such as Google Drive), they will receive information about what you share with them. If you interact with a third-party service linked through our Services, you may be providing information directly to such third party. Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.
+**Third-Party Services.** When you use third-party services that are integrated with our Services, they may receive information about what you share with them. For example, if you use a data backup service integrated with our Services (such as Google Drive), they will receive information about what you share with them. If you interact with a third-party service linked through our Services, you may be providing information directly to such third party. Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.
 
 ### Assignment, Change Of Control, And Transfer
 All of our rights and obligations under our Privacy Policy are freely assignable by us to any of our affiliates, in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner.
