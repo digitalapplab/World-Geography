@@ -67,7 +67,7 @@ We use all the information we have to help us operate, provide, improve, underst
 
 **Third-Party Banner Ads.** We do not allow third-party banner ads on Digital App Lab apps. We have no intention to introduce them, but if we ever do, we will update this policy.
 
-**Third-Party Full-Screen Interstitial Ads.** Some of our apps (e.g. Music Companion) show interest based full-screen interstitial ads from Google AdSense in between screen transitions with an intention not to destruct you while using a particular feature of the app. The frequency of showing ads and number of ads shown during a session may vary time to time and is solely the decission of Digital App Lab team. We may accept your feedback and opinion about the same and may fine tune these parameters (e.g. nature of ads, frequency of showing ads etc.).
+**Third-Party Full-Screen Interstitial Ads.** Some of our apps show interest based full-screen interstitial ads from Google AdSense in between screen transitions with an intention not to destruct you while using a particular feature of the app. The frequency of showing ads and number of ads shown during a session may vary time to time and is solely the decission of Digital App Lab team. We may accept your feedback and opinion about the same and may fine tune these parameters (e.g. nature of ads, frequency of showing ads etc.).
 
 ### Information You And We Share
 You share your information as you use our Services, and we share your information to help us operate, provide, improve, understand, customize, support, and market our Services.
