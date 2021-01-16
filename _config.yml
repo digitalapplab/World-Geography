@@ -7,4 +7,4 @@ include:
   - README.md
   - PRIVACY_POLICY.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
