@@ -1,8 +1,12 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
+  - jekyll-sitemap
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - README.md
   - PRIVACY_POLICY.md
