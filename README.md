@@ -1,3 +1,8 @@
+---
+layout: page
+title: World Geography
+---
+
 # World Geography
 Website for the World Geography Mobile App
 
