@@ -1,8 +1,3 @@
----
-layout: page
-title: World Geography
----
-
 # World Geography
 Website index for the World Geography Mobile App
 
