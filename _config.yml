@@ -16,7 +16,7 @@ include:
 # Pages for which links are shown at the menu
 pages_in_toolbar:
 - title: Home
-  url: /
+  url: .
 
 - title: Privacy Policy
   url: privacy_policy.html
