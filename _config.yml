@@ -12,7 +12,19 @@ include:
   - privacy_policy.md
   - README.md
   - terms_of_service.md
-  
+
+# Pages for which links are shown at the menu
+pages_in_toolbar:
+- title: Home
+  url: README.html
+
+- title: Privacy Policy
+  url: privacy_policy.html
+
+- title: Terms of Service
+  url: terms_of_service.html
+
+# Website theme
 theme: jekyll-theme-cayman
 
 safe: true
