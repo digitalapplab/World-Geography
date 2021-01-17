@@ -23,8 +23,8 @@
     <!--a id="skip-to-content" href="#content">Skip to the content.</a-->
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ default: site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">{{ default: site.title | site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ default: site.description | site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -35,13 +35,9 @@
 
       <!--Adding tool bar buttons with page links-->
       {% for item in site.pages_in_toolbar %}
-        <a href="{{ item.url }}">{{ item.title }}</a></li>
         <a href="{{ item.url }}" class="btn">{{ item.title }}</a>
       {% endfor %}
 
-      <!--a href="{{ site.github.releases_url }}" class="btn">Home</a>
-      <a href="{{ site.github.wiki_url }}" class="btn">Privacy Policy</a>
-      <a href="{{ site.github.wiki_url }}" class="btn">Terms of Service</a-->
     </header>
 
     <main id="content" class="main-content" role="main">
