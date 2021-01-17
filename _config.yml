@@ -9,14 +9,14 @@ relative_links:
   collections: true
 
 include:
-  - index.md
+  - README.md
   - privacy_policy.md
   - terms_of_service.md
 
 # Pages for which links are shown at the menu
 pages_in_toolbar:
 - title: Home
-  url: index.html
+  url: /
 
 - title: Privacy Policy
   url: privacy_policy.html
